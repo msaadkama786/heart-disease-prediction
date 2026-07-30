@@ -99,12 +99,3 @@ scikit-learn
 matplotlib
 joblib
 Deployment
-
-# You can deploy the project for free using:
-
-Streamlit Community Cloud
-GitHub
-Render
-Hugging Face Spaces
-
-Since you recently asked about deploying Streamlit apps, this project is well suited for deployment on Streamlit Community Cloud by pushing the code to GitHub and connecting the repository to your Streamlit account.
