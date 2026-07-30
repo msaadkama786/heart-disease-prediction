@@ -1,5 +1,5 @@
 # Heart Disease Prediction Project
-## <a href="http://localhost:8501/">Project Description</a>
+## <a href="https://github.com/msaadkama786/heart-disease-prediction/blob/main/image.png">Project Description</a>
 <img src="image.jpg" alt="Final project image">
 
 
