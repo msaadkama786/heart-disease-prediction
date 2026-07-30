@@ -1,9 +1,9 @@
-## Heart Disease Prediction Project
-# Project Description
+# Heart Disease Prediction Project
+## Project Description
 
 Developed a machine learning model to predict the likelihood of heart disease based on patient medical data. The project involved data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and deployment using Python and Streamlit.
 
-Technologies Used
+## Technologies Used
 Python
 Pandas
 NumPy
@@ -12,7 +12,7 @@ Scikit-learn
 Streamlit
 Joblib
 
-# Dataset Features
+## Dataset Features
 
 Common features include:
 
@@ -30,23 +30,24 @@ Slope
 Number of Major Vessels (ca)
 Thalassemia (thal)
 Target (Heart Disease: Yes/No)
-Project Workflow
+
+## Project Workflow
 Load the dataset.
 Clean and preprocess the data.
 Perform Exploratory Data Analysis (EDA).
 Split data into training and testing sets.
-Train multiple machine learning models:
-Logistic Regression
-Decision Tree
-Random Forest
-Support Vector Machine (SVM)
-K-Nearest Neighbors (KNN)
-Evaluate models using:
-Accuracy
-Precision
-Recall
-F1 Score
-Confusion Matrix
+## Train multiple machine learning models:
+1.Logistic Regression
+2.Decision Tree
+3.Random Forest
+4.Support Vector Machine (SVM)
+5.K-Nearest Neighbors (KNN)
+## Evaluate models using:
+1.Accuracy
+2.Precision
+3.Recall
+4.F1 Score
+5.Confusion Matrix
 Save the best model using Joblib.
 Build a Streamlit web application for predictions.
 Machine Learning Algorithms
