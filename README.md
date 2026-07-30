@@ -1,7 +1,7 @@
 # Heart Disease Prediction Project
-## <a href="">Project Description</a>
+## Project Description
 <img src="image.png" alt="Final project image">
-
+<a href="http://localhost:8501/">Project link</a>
 
 Developed a machine learning model to predict the likelihood of heart disease based on patient medical data. The project involved data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and deployment using Python and Streamlit.
 
