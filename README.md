@@ -1,5 +1,5 @@
-Heart Disease Prediction Project
-Project Description
+## Heart Disease Prediction Project
+# Project Description
 
 Developed a machine learning model to predict the likelihood of heart disease based on patient medical data. The project involved data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and deployment using Python and Streamlit.
 
@@ -11,7 +11,8 @@ Matplotlib
 Scikit-learn
 Streamlit
 Joblib
-Dataset Features
+
+# Dataset Features
 
 Common features include:
 
@@ -64,7 +65,7 @@ ROC-AUC Score
 Confusion Matrix
 Resume Project Description
 
-Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 Built a predictive machine learning model using Python and Scikit-learn to classify heart disease risk.
 Performed data cleaning, feature engineering, and exploratory data analysis (EDA).
@@ -74,8 +75,8 @@ GitHub README Description
 
 Heart Disease Prediction is a machine learning project that predicts the likelihood of heart disease using patient clinical data. The project includes data preprocessing, visualization, model training, performance evaluation, and deployment with Streamlit for an interactive user experience.
 
-Folder Structure
-Heart-Disease-Prediction/
+# Folder Structure
+# Heart-Disease-Prediction/
 │
 ├── app.py
 ├── heart.csv
@@ -96,7 +97,7 @@ matplotlib
 joblib
 Deployment
 
-You can deploy the project for free using:
+# You can deploy the project for free using:
 
 Streamlit Community Cloud
 GitHub
